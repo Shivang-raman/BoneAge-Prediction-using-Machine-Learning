@@ -83,3 +83,20 @@ Incorporate explainability (Grad-CAM visualization)
 
 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+**********Some Major Snapshots********************
+
+![download (2)](https://github.com/user-attachments/assets/ee9deb41-7165-4d85-bf72-a9136a8c01b2)
+
+![download (3)](https://github.com/user-attachments/assets/933ec95e-1c88-468f-9a98-f1452b8682b8)
+
+![download (4)](https://github.com/user-attachments/assets/73aba3a7-c482-4356-846d-a591a9d5e9e9)
+
+![download (5)](https://github.com/user-attachments/assets/9270f9e9-6eff-4054-b7f0-5582daff25fc)
+
+![download (6)](https://github.com/user-attachments/assets/48752191-2a5b-4ee9-8acb-eee8fa8d170f)
+
+![download (7)](https://github.com/user-attachments/assets/cc86888f-9126-449e-9b50-2ac6f79e51f1)
+
+![download (8)](https://github.com/user-attachments/assets/31123b42-38cb-4b27-bc76-3849eb1ca737)
+
